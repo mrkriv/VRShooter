@@ -1,9 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x64
-/SUBSYSTEM:WINDOWS
-/LTCG
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Intermediate\Build\Win64\UE4\Shipping\AdvancedSessions\PCLaunch.rc.res"
-/OUT:"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions-Win64-Shipping.lib"

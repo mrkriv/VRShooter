@@ -1,8 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x64
-/SUBSYSTEM:WINDOWS
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\DebugGame\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\DebugGame\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Intermediate\Build\Win64\UE4\DebugGame\AdvancedSessions\PCLaunch.rc.res"
-/OUT:"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\AdvancedSessions\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions-Win64-DebugGame.lib"

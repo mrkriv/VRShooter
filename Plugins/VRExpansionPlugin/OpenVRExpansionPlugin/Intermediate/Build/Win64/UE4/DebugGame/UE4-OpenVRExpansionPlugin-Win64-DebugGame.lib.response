@@ -1,8 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x64
-/SUBSYSTEM:WINDOWS
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\DebugGame\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\DebugGame\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
-"C:\Users\RealityShift7\Desktop\VRShooter\Intermediate\Build\Win64\UE4\DebugGame\OpenVRExpansionPlugin\PCLaunch.rc.res"
-/OUT:"C:\Users\RealityShift7\Desktop\VRShooter\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin-Win64-DebugGame.lib"
