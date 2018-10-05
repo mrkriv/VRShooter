@@ -3,6 +3,8 @@
 
 Разработано на Unreal Engine 4 (4.19)
 
+Видосик https://youtu.be/NTffg2GlBAE
+
 ### Известные баги
 
 - Кривое лобби
